@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "file:fortawesome/fontawesome-free-solid@fortawesome/fontawesome-free-regular",
+    "swiper": "^11.1.14"
+  }
+}
